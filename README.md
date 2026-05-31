@@ -9,7 +9,7 @@
 ---
 
 **PhD Applicant · Geospatial Data Science & Precision Agriculture**  
-MSc Data Analytics (2.1 Honours) · TUS Limerick, Ireland  
+MSc Data Analytics (2.2 Honours) · TUS Limerick, Ireland  
 B.Tech Computer Science · Vel Tech University, India
 
 ---
