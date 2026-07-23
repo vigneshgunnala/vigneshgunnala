@@ -19,23 +19,23 @@ MSc Data Analytics graduate (TUS Limerick) with hands-on experience spanning dat
 
 ## 📌 Featured Projects
 
-### 🤖 Smart Agriculture RAG Chatbot
+### Smart Agriculture RAG Chatbot
 `LangChain` `RAG Architecture` `LLM` `Vector Embeddings` `Streamlit`
 Built an end-to-end Retrieval-Augmented Generation chatbot grounded on real agricultural data from seven Irish counties, with document chunking, vector embeddings, and semantic search for accurate, context-aware Q&A — deployed via Streamlit for non-technical agricultural stakeholders.
 
-### 🌾 AI-Driven Smart Irrigation System for Irish Agriculture
+### AI-Driven Smart Irrigation System for Irish Agriculture
 `Random Forest` `XGBoost` `LSTM` `SHAP` `Met Éireann Data` · *MSc Thesis*
 Built a sensor-free irrigation advisory system using 14 years of Met Éireann weather data across 7 counties. Benchmarked Random Forest, XGBoost, and LSTM models with SHAP-based interpretability, translating predictions into actionable, farmer-friendly irrigation recommendations that reduced projected water wastage.
 
-### 📊 Interactive Analytics Dashboards
+###  Interactive Analytics Dashboards
 `Power BI` `HTML/CSS/JS` `Data Visualisation`
 Built two production-ready dashboards — a COVID-19 Global Analytics Dashboard and a Healthcare Patient Analytics Dashboard — with dynamic filtering, KPI cards, and chart interactivity, enabling non-technical stakeholders to explore trends without SQL or code.
 
-### 🚁 Dynamic Object Detection for Smart Farming
+###  Dynamic Object Detection for Smart Farming
 `YOLOv5` `ResNet9` `OpenCV` `PyTorch` `Flask`
 Designed a real-time object detection pipeline for drone imagery to identify crop health issues and field anomalies, integrating OpenCV and Flask for live field monitoring and reducing the need for manual inspections.
 
-## 💼 Work Experience
+##  Work Experience
 
 **Software Development Intern (Data & Analytics Focus)** — ConectYu, Hyderabad, India
 *Jan 2024 – Jun 2024*
