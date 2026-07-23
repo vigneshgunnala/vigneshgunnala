@@ -37,7 +37,7 @@ Designed a real-time object detection pipeline for drone imagery to identify cro
 
 ##  Work Experience
 
-**Software Development Intern (Data & Analytics Focus)** — ConectYu, Hyderabad, India
+**Software Development Intern (Data & Analytics)** — ConectYu, Hyderabad, India
 *Jan 2024 – Jun 2024*
 - Analysed structured datasets using Python, SQL, and Excel, reducing manual data reconciliation time by ~30%
 - Built and maintained automated ETL pipelines, improving data quality and dashboard accuracy for stakeholder reporting
