@@ -5,15 +5,15 @@
 
 ## 🧠 About Me
 
-MSc Data Analytics graduate (TUS Limerick) with hands-on experience spanning data analytics and Generative AI — from interactive dashboards and statistical analysis to RAG chatbots, LLM pipelines, and AI agent workflows. Proficient in Python, SQL, Power BI, Tableau, and LangChain, with experience across the full analytics/AI lifecycle: data ingestion, EDA, feature engineering, model building, prompt engineering, and deployment via Streamlit and FastAPI. I enjoy turning messy datasets into clear, actionable insights and building practical AI tools that non-technical stakeholders can actually use.
+MSc Data Analytics graduate (TUS Limerick) with hands-on experience spanning data analytics and Generative AI from interactive dashboards and statistical analysis to RAG chatbots, LLM pipelines, and AI agent workflows. Proficient in Python, SQL, Tableau, and LangChain, with experience across the full analytics/AI lifecycle: data ingestion, EDA, feature engineering, model building, prompt engineering, and deployment via Streamlit and FastAPI. I enjoy turning messy datasets into clear, actionable insights and building practical AI tools that non-technical stakeholders can actually use.
 
 ## 🛠️ Technical Skills
 
 **Generative AI:** LLMs, RAG Architecture, Prompt Engineering, LangChain, AI Agents, Fine-Tuning, Vector Databases, Semantic Search
 **Machine Learning:** Random Forest, XGBoost, LSTM, Classification, Regression, Time Series Forecasting, Feature Engineering, SHAP Explainability
-**Data Analysis & Visualisation:** Power BI, Tableau, Excel (Advanced), KPI Dashboards, Data Storytelling, HTML/CSS/JS Dashboards
-**Programming & Databases:** Python (NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, Seaborn), SQL (JOINs, CTEs, Window Functions), MySQL
-**Deployment & Tools:** Streamlit, FastAPI, Docker Basics, AWS, Google Colab, Jupyter Notebook, GitHub
+**Data Analysis & Visualisation:**Tableau, Microsoft 365, KPI Dashboards, Data Storytelling
+**Programming & Databases:** Python (NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, Seaborn), SQL, MySQL
+**Deployment & Tools:** FastAPI, AWS, Google Colab, Jupyter Notebook, GitHub
 **Data Engineering:** ETL Pipelines, Data Warehousing, Data Cleaning & Transformation, Data Quality Assurance
 **Soft Skills:** Stakeholder Communication, Problem-Solving, Critical Thinking, Cross-Functional Collaboration
 
@@ -32,7 +32,7 @@ Built a sensor-free irrigation advisory system using 14 years of Met Éireann we
 Built two production-ready dashboards — a COVID-19 Global Analytics Dashboard and a Healthcare Patient Analytics Dashboard — with dynamic filtering, KPI cards, and chart interactivity, enabling non-technical stakeholders to explore trends without SQL or code.
 
 ###  Dynamic Object Detection for Smart Farming
-`YOLOv5` `ResNet9` `OpenCV` `PyTorch` `Flask`
+`YOLOv5` `OpenCV` `PyTorch` `Flask`
 Designed a real-time object detection pipeline for drone imagery to identify crop health issues and field anomalies, integrating OpenCV and Flask for live field monitoring and reducing the need for manual inspections.
 
 ##  Work Experience
